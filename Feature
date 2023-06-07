@@ -1,2 +1,3 @@
-logins
+Names and email address
+
 
